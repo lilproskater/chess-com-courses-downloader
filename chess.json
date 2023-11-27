@@ -1,0 +1,1031 @@
+{
+    "levels": [
+        {
+            "name": "Новичок в шахматах (Как играть)",
+            "courses": [
+                {
+                    "name": "Как ходят фигуры",
+                    "short_description": "Знакомимся с шахматными фигурами и их начальной расстановкой",
+                    "link": "https://www.chess.com/lessons/kak-hodiat-figury",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/988e5810-a5f9-11e8-865e-99f63d7e1a82.080d9b4b.728x410o.6d51a041cd4c.png",
+                    "description": "Узнаем, как ходят фигуры, и как расставить их на доске!\r\nХотите узнать о правилах королевской игры? Сыграть в шахматы с другом или родственником? Тогда этот курс для вас! Пройдя этот курс, вы сможете расставить фигуры на доске и сможете сыграть в шахматы!\r\nВот что вы узнаете:\r\n\r\nКак расставить фигуры на доске\r\nЧто такое превращение пешки, и как его осуществить\r\nХоды каждой фигуры\r\nКак дать мат и выиграть партию!",
+                    "lessons": [
+                        {
+                            "name": "Король и цель игры",
+                            "link": "https://www.chess.com/lessons/kak-hodiat-figury/korol-i-tsel",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/ce6da2c8-a0b4-11e8-a13a-1fb24235cda7.ee0ec8e3.320x180o.902eb73a89f1.png",
+                            "description": "Шахматы - увлекательная игра, которую легко освоить. В нее играют 32 фигурами на доске 8x8 из 64 полей. Победа достигается матом - поимкой короля противника. Король - самая важная, но не самая сильная фигура. Король может ходить на любое соседнее поле по вертикали, горизонтали или диагонали.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-the-king-and-the-goal-j3e.mp4"
+                        },
+                        {
+                            "name": "Ферзь",
+                            "link": "https://www.chess.com/lessons/kak-hodiat-figury/ferz",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/cc63779c-a0b8-11e8-a376-b13050d5a5f5.862067c0.320x180o.616b0aaf2b7a.png",
+                            "description": "Король - самая важная шахматная фигура, но ферзь - самая сильная. Как и король, ферзь может ходить в любом направлении: вперед, назад, вбок или по диагонали, но в отличие от короля ферзь перемещается на сколько угодно полей. Одно ограничение: он не может перепрыгивать через фигуры, стоящие у него на пути.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-the-queen-p1q.mp4"
+                        },
+                        {
+                            "name": "Ладья",
+                            "link": "https://www.chess.com/lessons/kak-hodiat-figury/ladia",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/0057bc48-a0b9-11e8-8040-5705eef564b8.5efc0e52.320x180o.69ee92a58fb0.png",
+                            "description": "Ладья может ходить вперед, назад и в стороны как ферзь, но не может ходить по диагонали.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-the-rook-i9s.mp4"
+                        },
+                        {
+                            "name": "Слон",
+                            "link": "https://www.chess.com/lessons/kak-hodiat-figury/slon",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/87c4e616-9315-11e9-9bd5-cd201ede1a98.9422d95f.320x180o.4ad3ff235b3b.png",
+                            "description": "Слон может ходить по диагонали как ферзь, но не вперед, назад или в стороны. У каждого из противников в начале партии два слона: один белопольный, и один чернопольный.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-the-bishop-o8s.mp4"
+                        },
+                        {
+                            "name": "Конь",
+                            "link": "https://www.chess.com/lessons/kak-hodiat-figury/kon",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/e1fe7178-931b-11e9-a2a6-2dacf512efb1.4d7c8f68.320x180o.d60493f695f1.png",
+                            "description": "Конь - единственная шахматная фигура, которая ходит не по прямой линии. При ходе конь двигается два поле в одном направлении и на одно в перпендикулярном. Например, на два поля вперед и на одно влево, или на два поля вправо и на одно вниз. Ход коня похож на букву \"Г\". Также конь отличается тем, что это - единственная фигура, способная перепрыгивать через препятствия.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-the-knight-s0c.mp4"
+                        },
+                        {
+                            "name": "Пешка",
+                            "link": "https://www.chess.com/lessons/kak-hodiat-figury/peshka",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/298ef4aa-a0b9-11e8-ab3a-c9a94b890216.63136f3d.320x180o.b27afc4989c6.png",
+                            "description": "Обычно за один ход пешка может продвинуться на одно поле вперед. Но у пешек есть и особые свойства. На первом ходу пешка может продвинуться на одно или на два поля. Кроме того, взятие пешки отличается от обычного хода. Пешка может взять фигуру, расположенную впереди от нее по диагонали. Пешки - единственные фигуры, которые не могут отступать назад.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-the-pawn-v8e.mp4"
+                        },
+                        {
+                            "name": "Пешечное превращение",
+                            "link": "https://www.chess.com/lessons/kak-hodiat-figury/prevrashchenie-peshki",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/372db93e-a0b9-11e8-a26a-73f64ce37007.0de194f1.320x180o.d045108f3170.png",
+                            "description": "Добравшись до последней горизонтали, пешка может превратиться, то есть, стать любой фигурой: конем, слоном, ладьей или ферзем. Ферзи - самые важные фигуры, и превращение в ферзя встречается чаще всего.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-pawn-promotion-p2w.mp4"
+                        },
+                        {
+                            "name": "Начальная расстановка",
+                            "link": "https://www.chess.com/lessons/kak-hodiat-figury/nachalnaia-rasstanovka",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/44da32c4-a0b9-11e8-bc28-3f6f6b277534.65e48170.320x180o.e5c062a11544.png",
+                            "description": "Теперь мы знаем, как ходят фигуры - пора расставить их и начать партию. Доска должна быть расположена так, чтобы справа внизу от каждого из игроков было белое поле. Ладьи располагаются в углах доски, рядом с ними кони, потом слоны. Король и ферзи находятся в центре последней и первой горизонтали, при этом ферзи - на поле цвета своих  фигур. Все пешки белых расположены на второй горизонтали, а все пешки черных - на седьмой.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-setting-up-the-board-l3f.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Пора играть!",
+                    "short_description": "Узнаем основные правила шахмат и играем партию от начала до конца",
+                    "link": "https://www.chess.com/lessons/pora-igrat",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/ba2dc940-a556-11e8-9fd0-fd4327a68310.64572fdb.728x410o.eb28eb4c94f8.png",
+                    "description": "Узнаем правила шахмат и начнем играть сейчас!\r\nМы узнали, как ходят фигуры, и можем расставить их на доске. Что делать дальше? Узнать правила игры! Этот курс предназначен тем, кто хочет сыграть партию в шахматы от начала до конца. Пройдя его до конца, вы сможете сыграть с кем угодно!\r\nВот что вы узнаете:\r\n\r\nРазницу между шахом и матом\r\nО пате и других видах ничьих\r\nКак читать и записывать ходы с использованием шахматной нотации\r\nОсновы стратегии, такие как взятие фигур\r\nО рокировке, взятии на проходе и более сложных правилах!",
+                    "lessons": [
+                        {
+                            "name": "Язык шахмат",
+                            "link": "https://www.chess.com/lessons/pora-igrat/iasyk-shahmat",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/5287ee7a-a0b9-11e8-acef-b54517f06b6d.325622db.320x180o.7108afbad83d.png",
+                            "description": "У каждого поля на шахматной доске есть свое имя, состоящее из двух координат. Каждая вертикаль обозначается определенной латинской буквой, начиная с \"а\", где расположена ферзевая ладья и заканчивая \"h\", где находится королевская. Каждая горизонталь обозначается определенной цифрой: на 1-й и 2-й стоят фигуры белых, а на 7-й и 8-й - фигуры черных. Каждая фигура обозначается так: король = Кр, ферзь = Ф, ладья = Л, слон = С, конь = К, а у пешек обозначение пропускается.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-notation-j7cb.mp4"
+                        },
+                        {
+                            "name": "Ходы и взятия",
+                            "link": "https://www.chess.com/lessons/pora-igrat/hody-vziatiia",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/60422daa-a0b9-11e8-b624-a37bcd022177.43b4cac7.320x180o.1c1cdce23e72.png",
+                            "description": "Мы приблизимся к победе в шахматной партии, если заберем все фигуры противника. Большинство фигур делает взятия так же, как ходит. Только пешки берут  вперед по диагонали, а ходят вперед прямо. Символ взятия - буква \"x\" или двоеточие между буквенным обозначением фигуры и полем, где она оказывается. Например, взятие ферзем на a2 записывается как Фxa2. Превращение пешки обозначается знаком \"=\" и обозначением новой фигуры. Например, мы записываем превращение пешки в ферзя на поле d8 как d8=Ф.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-moving-and-capturing-g0i.mp4"
+                        },
+                        {
+                            "name": "Даем шах",
+                            "link": "https://www.chess.com/lessons/pora-igrat/shah",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/f316fc96-9320-11e9-a6b4-8568b2663711.addf5fef.320x180o.06a7a5638ff6.png",
+                            "description": "Шах значит, что один из игроков угрожает взять вражеского короля. Взятие короля в шахматах невозможно по правилам, поэтому от шаха нужно защититься. Шах обозначается символом \"+\" в конце нотации. Например, ход конем на g6 с шахом обозначается ходом Кg6+.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-check-d5t.mp4"
+                        },
+                        {
+                            "name": "Защита от шаха",
+                            "link": "https://www.chess.com/lessons/pora-igrat/zashchita-ot-shakha",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/7ba7e846-a0b9-11e8-b0c0-99349e07f00e.b667d545.320x180o.ff3a2fd33975.png",
+                            "description": "Когда нам шах, от него нужно защититься. Для этого можно отступить королем, закрыться другой фигурой или взять фигуру, объявившую шах.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-getting-out-of-check-k3d.mp4"
+                        },
+                        {
+                            "name": "Даем мат",
+                            "link": "https://www.chess.com/lessons/pora-igrat/daem-mat",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/67c52ae2-9324-11e9-9c8c-d9f2eb7e8134.06315e77.320x180o.f6f08cf747f7.png",
+                            "description": "Мы побеждаем, если король нашего противника под шахом и не может отступить. Это мат!",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-checkmate-h7t.mp4"
+                        },
+                        {
+                            "name": "Самый быстрый мат",
+                            "link": "https://www.chess.com/lessons/pora-igrat/samyi-bystryi-mat",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/970cc142-a0b9-11e8-bec8-d1834cc1edf9.f7b6905d.320x180o.b2986f410f58.png",
+                            "description": "Задумывались когда-нибудь, как на доске может возникнуть самый быстрый мат? Для этого нужно всего два хода. Смотрим: 1. f3 e5 2. g4 Фh4#. Мат обозначается символом #.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-fastest-checkmate-b8d.mp4"
+                        },
+                        {
+                            "name": "Ничья патом",
+                            "link": "https://www.chess.com/lessons/pora-igrat/nichia-patom",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/6c5422ac-9329-11e9-9f14-f53d1b4a159c.dbca47b4.320x180o.9e6b9694eb3a.png",
+                            "description": "Пат возникает на доске, когда у одного из противников нет возможных ходов, но его король не находится под шахом. Пат ведет к ничьей даже, если у другого игрока подавляющее материальное преимущество. Пример пата: король одного из противников не находится под шахом, но получит шах на любом соседнем поле.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-stalemate-g9d.mp4"
+                        },
+                        {
+                            "name": "Другие ничьи",
+                            "link": "https://www.chess.com/lessons/pora-igrat/drugie-nichi",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/b284aac0-a0b9-11e8-80ef-5f866f7ae67f.9ed7a8d3.320x180o.f16376dc46da.png",
+                            "description": "Не все партии завершаются результативно, победой или поражением. Иногда они заканчиваются вничью. Возможны следующие причины ничьи: 1. Пат. 2. Соглашение противников. 3. При троекратном повторении позиции любой из противников может потребовать признания партии ничьей. 4. Если на протяжении 50 ходов не делалось ходов пешками или взятий.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-drawing-j2b.mp4"
+                        },
+                        {
+                            "name": "Взятие на проходе",
+                            "link": "https://www.chess.com/lessons/pora-igrat/vziatie-na-prokhode",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/ce122eac-a0b9-11e8-b7cd-0b3c62e51e14.a4c37cf3.320x180o.1f35c9935267.png",
+                            "description": "Это самое необычное правило в шахматах - убедимся, что оно нам знакомо. Взятие на проходе возможно после хода пешки на два поля вперед. Ответным ходом противник может взять эту пешку, если поле, которое перешагнула ранее не ходившая пешка, под боем у его пешки. Если черная пешка расположена на g7, а белая на h5, и черная пешка идет на g5, белая может ее взять, оказавшись на поле g6. Это возможно только на ответном ходу. После другого хода право взятия пешки на проходе теряется.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-en-passant-e9b.mp4"
+                        },
+                        {
+                            "name": "Рокировка",
+                            "link": "https://www.chess.com/lessons/pora-igrat/rokirovka",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/c03c3ad4-a0b9-11e8-aaae-8dc4e502180b.dd0fd1b4.320x180o.fe146bdce99d.png",
+                            "description": "Рокировка - особый ход, позволяющий обезопасить короля и активизировать ладью. Это единственный раз в шахматной партии, когда двигаются одновременно две фигуры. Король делает шаг на два поля вправо или влево, а ладья располагается с другого края от короля. Рокировка возможна, если ни король, ни ладья еще не ходили, и у них на пути нет других фигур. Нельзя рокировать из-под шаха, под шах или через шах,",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-castling-f9b.mp4"
+                        },
+                        {
+                            "name": "Как найти сильный ход?",
+                            "link": "https://www.chess.com/lessons/pora-igrat/kak-naiti-pravilnyi-khod",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/dba6bf6a-a0b9-11e8-9030-e93aaec0f127.967d4a8f.320x180o.748e14a5e488.png",
+                            "description": "На каждом ходу возможны десятки продолжений. Как выбрать сильнейшее? Оценим свои возможности и угрозы противника. Обратим особое внимание на шахи, взятия и угрозы.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-smart-moves-g5w.mp4"
+                        },
+                        {
+                            "name": "Как проходит партия?",
+                            "link": "https://www.chess.com/lessons/pora-igrat/kak-prokhodit-partiia",
+                            "image": "https://images.chesscomfiles.com/uploads/v1/lesson/e95c1510-a0b9-11e8-a35b-114341b0e3cd.81775a44.320x180o.2d5893ae5ae6.png",
+                            "description": "Смотрим партию от начала до конца с объяснением всех ходов. 1. e4 c6 Противники выводят пешки в центр. 2. d4 d5 Заняв центр двумя пешками, можно развивать фигуры. 3. Кc3 dxe4 Белые защищают пешку, а черные ее берут. 4. Кxe4 Кd7 Белые берут в ответ, а черные развивают коня. 5. Bc4 Кgf6 Белые выводят слона, а черные - коня. 6. Ng5 h6 Белые нападают на пешку f7, но черные не замечают угрозу. 7. Bf7# Мат!",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-NTC-playing-a-game-p0a.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Начинающий (Основы)",
+            "courses": [
+                {
+                    "name": "Дебютные принципы",
+                    "short_description": "Получим перевес с первых ходов",
+                    "link": "https://www.chess.com/lessons/debiutnye-printsipy",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/6fd971fa-2291-11ea-b31a-6f7c44ab21e8.ad64e378.728x410o.9cefd11563ea.png",
+                    "description": "Узнаем, как правильно разыграть первые ходы партии!\r\nУстали от раздумий, что делать в дебюте? Чувствуете, что уступаете с первых ходов? Этот курс для вас! Узнав важнейшие принципы дебюта, мы начнем уверенно разыгрывать первые ходы партий!\r\nВот что мы узнаем:\r\n\r\nО разных стадиях партий, и как они взаимосвязаны\r\nКак защитить своего короля\r\nВажность контроля центра\r\nКак развивать свои фигуры!",
+                    "lessons": [
+                        {
+                            "name": "Контроль центра",
+                            "link": "https://www.chess.com/lessons/debiutnye-printsipy/kontrol-tsentra",
+                            "description": "Постараемся так расположить свои фигуры, чтобы занять самую важную часть доски - центр. Возьмем под бой поля e4, d4, e5 и d5 в начале партии. Если мы захватим эти поля, наш противник не сможет активно расположить свои фигуры.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-OP-control-the-center-p2w.mp4"
+                        },
+                        {
+                            "name": "Развитие фигур",
+                            "link": "https://www.chess.com/lessons/debiutnye-printsipy/razvitie-figur",
+                            "description": "Управляем ходом игры, развивая фигуры на поля, где они смогут контролировать центр. Быстро выводим слона и коня и делаем рокировку. После этого делаем ход ферзем, чтобы соединить ладьи. Все цели дебюта выполнены!",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-OP-develop-your-pieces-k1a.mp4"
+                        },
+                        {
+                            "name": "Безопасность короля",
+                            "link": "https://www.chess.com/lessons/debiutnye-printsipy/bezopasnost-korolia-1",
+                            "description": "Безопасность короля - самый важный позиционный фактор в шахматах. Лучший способ обезопасить короля - рокировка. После рокировки мы сможем использовать свои центральные пешки в борьбе за центр и обеспечить безопасность короля под прикрытием фланговых пешек. Другая важная цель рокировки - помочь ладье бороться за центр.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-OP-protect-your-king-p2q.mp4"
+                        },
+                        {
+                            "name": "Активные фигуры",
+                            "link": "https://www.chess.com/lessons/debiutnye-printsipy/aktivnye-figury",
+                            "description": "Активной фигурой считается та, которая может сделать много ходов. В начале партии многие фигуры вообще не могут двигаться, за исключением пешек и коней, перепрыгивающих через них. Лучший способ развивать фигуры - выводить их в центр доски.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-active-pieces-f9d.mp4"
+                        },
+                        {
+                            "name": "Замыслы противника",
+                            "link": "https://www.chess.com/lessons/debiutnye-printsipy/zamysly-protivnika",
+                            "description": "На каждом ходу важно обращать внимание на действия своего противника. Проверяем любые его взятия, шахи или угрозы. Если мы не раскроем его замыслы, попадем в беду. Иногда противник сможет создать несколько угроз, а мы - найти ответ, отражающий все. Не торопимся и постараемся разглядеть все идеи. Лучший способ избежать ошибок - на каждом ходу спрашивать себя: “Как бы продолжал мой противник при своей очереди хода?”",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-OP-opponents-moves-d5l.mp4"
+                        },
+                        {
+                            "name": "Фазы партии",
+                            "link": "https://www.chess.com/lessons/debiutnye-printsipy/fazy-partii-1",
+                            "description": "Шахматная партия состоит из трех фаз. В дебюте оба  противника развивают свои фигуры, выводя их с последней горизонтали. Когда фигуры покидают начальные позиции, партия переходит в миттельшпиль, где оба противника стараются усилить свою позицию, но на доске остается много фигур. После разменов большинства фигур партия переходит в эндшпиль, и противники стараются провести свои пешки в ферзи.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-phases-of-the-game-j0e.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ставим мат",
+                    "short_description": "Закончим партию матом противнику",
+                    "link": "https://www.chess.com/lessons/stavim-mat",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/19477610-a557-11e8-8977-c379734b78de.cdd9caf7.728x410o.f02054aa4cbf.png",
+                    "description": "Узнаем, как дать мат противнику и добиться победы!\r\nВы не понимаете, как победить с ферзем или ладьей против одинокого короля противника? Вам приходилось давать пат одинокому королю? Это курс для вас! Узнав о разных видах мата, вы начнете выигрывать больше партий!\r\nВот что вы узнаете:\r\n\r\nКак дать мат королем и ферзем\r\nКак дать мат королем и ладьей\r\nКак дать мат с помощником\r\nКак дать мат двумя ладьями\r\nКак дать детский мат в четыре хода!",
+                    "lessons": [
+                        {
+                            "name": "Детский мат",
+                            "link": "https://www.chess.com/lessons/stavim-mat/detskii-mat",
+                            "description": "Партии новичков часто заканчиваются матом в четыре хода, обычно так: 1. e4 e5 2. Фh5 Кc6 3.Сc4 и Фxf7#. Важно защитить от мата свою самую слабую пешку: f7 у черных и f2 у белых. Если вы не пропустите фигуры белых к этому полю, то добьетесь хорошей позиции.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-4-move-checkmate-o3f.mp4"
+                        },
+                        {
+                            "name": "Помощь при мате",
+                            "link": "https://www.chess.com/lessons/stavim-mat/pomoshch-pri-mate",
+                            "description": "Король не может встать под шах, потому можно дать мат, поставив ферзя рядом с королем противника на поле, защищенное одной из наших фигур. Если король не может отступить, а другая фигура не может взять вашего ферзя, вашему противнику мат!",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-assisted-checkmate-o01.mp4"
+                        },
+                        {
+                            "name": "Линейный мат",
+                            "link": "https://www.chess.com/lessons/stavim-mat/lineinyi-mat",
+                            "description": "Линейный мат можно дать двумя ладьями или ладьей и ферзем, оттеснив вражеского короля на край доски. Король противника не сможет пересечь вертикаль, где расположена ладья. При этом другую ладью можно использовать, чтобы взять под бой соседнюю вертикаль, оттесняя короля противника к краю доски, пока он не получит мат. В позиции с ладьями белых на g1 и h2, а королем черных на h5, черным мат. Мат можно поставить и оттесняя короля по горизонтали.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-checkmate-with-two-rooks-l2w.mp4"
+                        },
+                        {
+                            "name": "Мат ферзем",
+                            "link": "https://www.chess.com/lessons/stavim-mat/mat-ferzem",
+                            "description": "Чтобы дать мат королем и ферзем королю противника, нужно: 1. Расположить ферзя на расстоянии хода конем от короля. 2. Отвечать на любой ход королем, ферзь оставался на расстоянии хода конем от короля. 3. Когда король противника достигнет края доски, занять ферзем предпоследнюю вертикаль или горизонталь так, чтобы король противника не мог покинуть последнюю, но у него оставалось два поля, и в позиции не было пата. 4. Подвести своего короля к королю противника, чтобы помочь ферзю дать мат.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-checkmate-with-the-queen-p2e.mp4"
+                        },
+                        {
+                            "name": "Мат ладьей",
+                            "link": "https://www.chess.com/lessons/stavim-mat/mat-ladei",
+                            "description": "Проще всего поставить мат королем и ладьей одинокому королю, используя следующий алгоритм: 1. Отрезать ладьей короля противника от большей части доски. 2. Подвести своего короля к ладье, чтобы ее защитить. 3. Если возможно ходом ладьи отнять пространство у короля противника, сделайте это. Если нет, приблизьте короля к королю противника. 4. Когда король противника окажется на краю доски, дайте ему мат ладьей, используя короля, чтобы не выпускать его визави с последней вертикали или горизонтали.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-checkmate-with-the-rook.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Охотимся на фигуры",
+                    "short_description": "Будем начеку и заберем побольше фигур противника.",
+                    "link": "https://www.chess.com/lessons/okhotimsia-figury",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/a6f9fd34-a557-11e8-bd26-3546deb41919.d15e1338.728x410o.c848552bb01d.png",
+                    "description": "Узнаем эти комбинации, чтобы выиграть больше фигур противника!\r\nЗадумывались, менять ли свою ладью на коня? Хотите сделать вилку или другую комбинацию? Это курс для вас! Узнав эти тактические идеи, мы начнем чаще добиваться материального перевеса и понимать, когда ваш противник создает угрозы! Усилим свои тактические возможности и смотрим, как наш рейтинг взлетает до небес!\r\nВот что мы узнаем:\r\n\r\nЦенность фигур, и чему она соответствует\r\nКак узнать, висит ли фигура\r\nКак избежать невыгодных разменов\r\nБольше о вилках, связках, линейных ударах и других комбинациях!",
+                    "lessons": [
+                        {
+                            "name": "Ценность фигур",
+                            "link": "https://www.chess.com/lessons/okhotimsia-figury/tsennost-figur",
+                            "description": "Ценность каждой шахматной фигуры, можно выразить в числах, чтобы правильно оценивать размены и взятия. \r\n\r\nПешка стоит 1 балл,\r\nКонь стоит 3,\r\nСлон - тоже 3, \r\nЛадья - 5, \r\nФерзь - 9, а\r\nКороль - всю партию!\r\n\r\nЭто значит, что менять коня на слона можно, но менять ферзя всего лишь на ладью - нежелательно. \r\nПри оценке возможных разменов нам нужно стремиться к сохранению материального равновесия или своему преимуществу. Жертвуем только, если у нас будет хорошая компенсация.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-value-of-the-pieces-b8e.mp4"
+                        },
+                        {
+                            "name": "Висячие фигуры",
+                            "link": "https://www.chess.com/lessons/okhotimsia-figury/visiachie-figury",
+                            "description": "Комбинационные удары - ходы, позволяющие сразу получить материальное преимущество, забирая незащищенные или висящие фигуры противника. На каждом ходу проверяем, какие фигуры остались без защиты. Взять висящую фигуру выгодно!",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-tactics-and-hanging-pieces-u8t.mp4"
+                        },
+                        {
+                            "name": "Считаем взятия",
+                            "link": "https://www.chess.com/lessons/okhotimsia-figury/schitaem-vziatiia",
+                            "description": "Выгодно совершить взятие фигуры противника, если у нас больше атакующих фигур, чем у противника - защищающихся. В этом случае мы совершаем первое и последнее взятие при размене. Обращаем внимание, какие фигуры мы меняем. Не стоит отдавать ферзя за две пешки!",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-counting-captures.mp4"
+                        },
+                        {
+                            "name": "Двойной удар",
+                            "link": "https://www.chess.com/lessons/okhotimsia-figury/dvoinoi-udar",
+                            "description": "Отличный способ добиться материального перевеса - напасть одной своей фигурой на несколько вражеских. Такой ход еще называют \"вилкой\". Противник может отступить только одну фигурой за ход, поэтому, если вы нападете на две или больше фигур, то сможете одну из них взять.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-forks-n2w.mp4"
+                        },
+                        {
+                            "name": "Связки",
+                            "link": "https://www.chess.com/lessons/okhotimsia-figury/sviazki",
+                            "description": "Связанная фигура находится под боем и не может двинуться, потому что тогда для противника откроется путь к более ценной фигуре. При полной связке ход фигурой невозможен по правилам, поскольку она защищает короля от шаха. При относительной связке ход связанной фигурой просто нежелателен, поскольку за ней находится более ценная фигура.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-pins-g6f.mp4"
+                        },
+                        {
+                            "name": "Как усилить нападение",
+                            "link": "https://www.chess.com/lessons/okhotimsia-figury/kak-usilit-napadenie",
+                            "description": "Когда фигура связана, она не может или не должна двигаться. Часто наилучший способ использовать это положение - атаковать связанную фигуру другими фигурами и, наконец, забрать.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-piling-up-d0b.mp4"
+                        },
+                        {
+                            "name": "Линейный удар",
+                            "link": "https://www.chess.com/lessons/okhotimsia-figury/lineinyi-udar",
+                            "description": "При линейном ударе фигура нападает на вражескую, а за той находится менее ценная, которую можно будет взять после того, как более ценная фигура отступит. Можно сказать, что линейный удар - обратная связка, потому что первой под удар попадает более ценная фигура.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-skewers-h0g.mp4"
+                        },
+                        {
+                            "name": "Как избегать невыгодных разменов",
+                            "link": "https://www.chess.com/lessons/okhotimsia-figury/kak-izbegat-nevygodnykh-razmenov",
+                            "description": "Постараемся не ошибиться, разменяв свои сильные фигуры на менее ценные. Важно на каждом ходу оценивать все взятия. Часто возможны различные продолжения, но только одно из них ведет к выгодному размену.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-bad-trades-p0i.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Охотимся на короля",
+                    "short_description": "Победим, сосредоточившись на атаке уязвимого короля",
+                    "link": "https://www.chess.com/lessons/okhotimsia-na-korolia",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/020f17f4-a558-11e8-9a80-b38aaf0abf4a.77ab9300.728x410o.1259383f8c68.png",
+                    "description": "Начнем атаковать слабого короля и объявим мат!\r\nЗадумывались как сильные шахматисты узнают, какие поля атаковать? Хотите научиться давать мат? Этот курс для вас! Узнаем, как атаковать слабые поля, и считать варианты до мата, и наши результаты сразу улучшатся. Начнем побеждать, объявляя мат!\r\nВот что мы узнаем:\r\n\r\nКак найти слабые поля\r\nКак рассчитать результат пешечной гонки\r\nКак найти мат\r\nНасколько важна безопасность короля\r\nМат по последней горизонтали!",
+                    "lessons": [
+                        {
+                            "name": "Пешечная гонка",
+                            "link": "https://www.chess.com/lessons/okhotimsia-na-korolia/peshechnaia-gonka",
+                            "description": "Когда у обоих противников на доске только короли и пешки, важно сосчитать, сколько ходов осталось каждой из них до поля превращения! Скорее всего, тот, кто первым превратит пешку в ферзя, выиграет партию.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-pawn-race-f7g.mp4"
+                        },
+                        {
+                            "name": "Мат по последней горизонтали",
+                            "link": "https://www.chess.com/lessons/okhotimsia-na-korolia/mat-poslednei-gorizontali",
+                            "description": "Рокировка - замечательная идея, но без защиты тяжелых фигур король на последней горизонтали может получить мат ладьей или ферзем. Часто бывает нужно продвинуть вперед одну из пешек, расположенных перед королем, чтобы открыть поле для отступления и избавиться от матовых угроз.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-back-rank-checkmate-b6d.mp4"
+                        },
+                        {
+                            "name": "Слабые поля f2 и  f7",
+                            "link": "https://www.chess.com/lessons/okhotimsia-na-korolia/slabye-polia",
+                            "description": "В начальной позиции пешки f2 и f7 защищает лишь король, поэтому они могут оказаться под боем фигур противника. Если вы сможете напасть на вражескую пешку \"f\", защищенную одни королем, двумя фигурами, то добьетесь материального перевеса или объявите мат. Чтобы защититься, можно сделать рокировку, и пешка \"f\" окажется под защитой ладьи.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-weak-squares-f2-f7-b9e.mp4"
+                        },
+                        {
+                            "name": "Безопасность короля",
+                            "link": "https://www.chess.com/lessons/okhotimsia-na-korolia/bezopasnost-korolia",
+                            "description": "Никогда не забываем о необходимости обеспечить безопасность своей самой важной фигуры, короля. Материальный перевес ничего не значит, если грозит мат. Стараемся защитить поля, откуда королю угрожает мат, или открыть ему путь к спасению.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-king-safety-f7s.mp4"
+                        },
+                        {
+                            "name": "Полезный шах",
+                            "link": "https://www.chess.com/lessons/okhotimsia-na-korolia/poleznyi-shakh",
+                            "description": "Атаковать короля - здорово, но этот план - не всегда сильнейший. Проявим терпение. Убедимся, что шахи ведут нас к цели, например, помогают поставить мат или мешают рокировке противника. Если противник может ответить полезным ходом, защищающим от шаха, давать его не стоит.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-dont-just-check-g6f.mp4"
+                        },
+                        {
+                            "name": "Мат в 2 хода",
+                            "link": "https://www.chess.com/lessons/okhotimsia-na-korolia/mat-v-2-khoda",
+                            "description": "Полезно внимательно изучить позицию, чтобы увидеть все шахи каждого из противников, угрозы мата и другие комбинации, возможные на следующем ходу.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-mate-in-2-r9y.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Введение в теорию дебютов",
+                    "short_description": "Узнаем о чаще всего встречающихся дебютах и их основных идеях",
+                    "link": "https://www.chess.com/lessons/vvedenie-v-teoriiu-debiutov",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/5cf19e6c-a558-11e8-8f24-d9da188bfa15.4bc4524c.728x410o.b253aaa63498.png",
+                    "description": "Узнаем основные идеи самых популярных и классических дебютов!\r\nКогда-нибудь задумывались, почему 1.e4 и 1.d4 - самые популярные дебюты? Хотите узнать о них больше? Этот курс для вас! Узнав книжные ходы и идеи теории шахмат, вы начнете более успешно разыгрывать дебют. Узнаем больше о дебютах и начнем получать выгодные позиции в самом начале партии!\r\nВот что мы узнаем:\r\n\r\nЛучшие защиты черных в ответ на 1.e4\r\nКак белым предложить ферзевый гамбит, начав партию ходом 1.d4\r\nКак черным защищаться в ферзевом гамбите\r\nКак белым играть в дебютах с ходом королевской пешки (1.e4)!",
+                    "lessons": [
+                        {
+                            "name": "Введение в 1.e4 - дебют за белых",
+                            "link": "https://www.chess.com/lessons/vvedenie-v-teoriiu-debiutov/vvedenie-e4-za-belykh",
+                            "description": "Один из самых распространенных дебютных ходов - 1.e4. Самый прочный ответ черных - 1...e5. Партия часто продолжается ходами 2.Кf3 Кc6, а потом белые выбирают из Сc4, Сb5 и d4.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-1e4-openings-for-white-y3c.mp4"
+                        },
+                        {
+                            "name": "Введение в 1.d4 - дебют за белых",
+                            "link": "https://www.chess.com/lessons/vvedenie-v-teoriiu-debiutov/vvedenie-d4-za-belykh",
+                            "description": "1.d4 самая распространенная альтернатива ходу 1.e4. Основной дебют после d4 - ферзевый гамбит, определяющийся ходами 1.d4 d5 2.c4. После 2...e6 на доске отказанный ферзевый гамбит, а после 2...c6 - славянская защита.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-1d4-openings-for-white-k3e.mp4"
+                        },
+                        {
+                            "name": "Введение в 1.e4 - дебют за черных (1...e5 и 1...c5)",
+                            "link": "https://www.chess.com/lessons/vvedenie-v-teoriiu-debiutov/vvedenie-e4-za-chernykh-e5-c5",
+                            "description": "Обычно в ответ на 1.e4 черные берут под бой поле d4 ходом 1...e5 или 1...c5, мешая белым захватить центр двумя пешками.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-1e4-defenses-for-black-1--e5-1--c5-l8x.mp4"
+                        },
+                        {
+                            "name": "Введение в 1.e4 - дебют за черных (1...e6, 1...c6 и 1...d5)",
+                            "link": "https://www.chess.com/lessons/vvedenie-v-teoriiu-debiutov/vvedenie-e4-za-chernykh-e6-c6-d5",
+                            "description": "Если черные не хотят отвечать на 1.e4 ходами e5 или c5, они могут расположить пешку на d5. Сразу 1...d5 возможно, но рискованно, поскольку белые возьмут эту пешку. Чаще встречается 1...e6 или 1..c6, чтобы подготовить d5 на следующем ходу.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-1e4-defenses-for-black--french-carokann-j7g.mp4"
+                        },
+                        {
+                            "name": "Введение в 1.d4 - дебют за черных",
+                            "link": "https://www.chess.com/lessons/vvedenie-v-teoriiu-debiutov/vvedenie-d4-za-chernykh",
+                            "description": "В ответ на первый ход 1.d4 шахматисты обычно мешают белым продолжать e4 ходом 1...Кf6 или 1...d5. Если мы играем 1...d5, а белые - c4, нужно продолжать e6 или c6, чтобы защитить пешку d5.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-BEG-1d4-defenses-for-black-r4h.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Средний (Ключевые концепции)",
+            "courses": [
+                {
+                    "name": "О чем мечтают фигуры",
+                    "short_description": "Учимся использовать силу и скрывать слабости каждой из фигур.",
+                    "link": "https://www.chess.com/lessons/o-chem-mechtaiut-figury",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/b7d45f40-a558-11e8-967a-ad4c1a0d5138.73073275.728x410o.8785ed416975.png",
+                    "description": "Узнаем, как раскрыть весь потенциал своих фигур!\r\nВы когда-нибудь ощущали, что ваши фигуры недостаточно хорошо взаимодействуют? Вам неясно, куда поставить одну из своих фигур? Этот курс - для вас! Знание, как использовать свои фигуры, важнейший стратегический шаг для каждого шахматиста. Прохождение этого курса поможет вам увеличить свое позиционное мастерство - и вам останется только следить за взрывным ростом своего рейтинга!\r\nВот что мы узнаем:\r\n\r\nКак правильно занимать ладьями и ферзем открытые вертикали\r\nКак использовать короля в различных стадиях шахматной партии\r\nНа каких диагоналях располагать слонов\r\nПочему кони оптимально расположены в центре\r\nИ в целом: как гармонично расположить свои силы!",
+                    "lessons": [
+                        {
+                            "name": "Как использовать слонов",
+                            "link": "https://www.chess.com/lessons/o-chem-mechtaiut-figury/kak-ispolzovat-slonov",
+                            "description": "Слоны наиболее полезны, когда они контролируют длинные диагонали, свободные от пешек, особенно, если у нас есть два слона, способные атаковать и черные, и белые поля.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-using-your-bishops-l2q.mp4"
+                        },
+                        {
+                            "name": "Как использовать коней",
+                            "link": "https://www.chess.com/lessons/o-chem-mechtaiut-figury/kak-ispolzovat-konei",
+                            "description": "Кони оптимально расположены в центре, где они держат под боем до восьми полей. Они удачно взаимодействуют с ферзями и блокируют вражеские пешки.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-using-your-knights-b0v.mp4"
+                        },
+                        {
+                            "name": "Как использовать ладей",
+                            "link": "https://www.chess.com/lessons/o-chem-mechtaiut-figury/kak-ispolzovat-ladei",
+                            "description": "Занимаем ладьями открытые вертикали, свободные от пешек. Ладьи также хорошо расположены на полуоткрытых вертикалях, атакуя пешки противника и защищая свои. Они очень эффективны вдвоем на открытой вертикали или горизонтали, особенно, на предпоследней.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-using-your-rooks-e8s.mp4"
+                        },
+                        {
+                            "name": "Как использовать ферзя",
+                            "link": "https://www.chess.com/lessons/o-chem-mechtaiut-figury/kak-ispolzovat-ferzia",
+                            "description": "Ферзь исключительно силен, но нужно проявить осторожность, чтобы не отдать его за менее ценные фигуры. Поэтому ферзей часто развивают чуть позже, чем остальные фигуры. Лучшая работа для ферзя - атаковать вражеского короля при поддержке других фигур.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-using-your-queen-v9t.mp4"
+                        },
+                        {
+                            "name": "Как использовать короля",
+                            "link": "https://www.chess.com/lessons/o-chem-mechtaiut-figury/kak-ispolzovat-korolia",
+                            "description": "В начале партии безопаснее всего сделать рокировку, чтобы обеспечить безопасность короля. В окончании король может помогать движению пешек. Если ему не грозит мат, он становится очень силен.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-using-your-king-h5f.mp4"
+                        },
+                        {
+                            "name": "Как использовать пешки",
+                            "link": "https://www.chess.com/lessons/o-chem-mechtaiut-figury/kak-ispolzovat-peshki",
+                            "description": "У пешек четыре основных роли. 1. Они могут контролировать ключевые поля, например, центр. Если ваши пешки контролируют центр, противник не сможет выгодно расположить свои фигуры. 2. Пешки помогают защищать свои фигуры. 3. Пешки полезны, открывая как тараном путь к королю противника. 4. Пешки могут превращаться в более сильные фигуры.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-using-your-pawns-c9w.mp4"
+                        },
+                        {
+                            "name": "Взаимодействие фигур",
+                            "link": "https://www.chess.com/lessons/o-chem-mechtaiut-figury/vzaimodeistvie-figur",
+                            "description": "В шахматах, как в командных видах спорта, все фигуры должны работать вместе! Одна сильная фигура не сможет справиться с несколькими, если те будут взаимодействовать друг с другом.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-pieces-working-together-k0q.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Основы эндшпиля",
+                    "short_description": "Что делать, когда большинство фигур покинуло доску",
+                    "link": "https://www.chess.com/lessons/osnovy-endshpilia",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/12e7d7ae-a559-11e8-947e-2532d037e856.c7215a57.728x410o.c6870446e254.png",
+                    "description": "Прекращаем избегать пешечных окончаний и начинаем в них побеждать!\r\nЧувствуете себя неудобно в технических окончаниях? Когда-либо завершали вничью или даже проигрывали окончание с лишней пешкой? Этот курс для вас! Узнав основы этих окончаний, мы станем чувствовать себя удобнее, когда на доске останется меньше фигур, и начнем побеждать в разных видах окончаний. Побеждаем противников в эндшпиле и смотрим, как растет наш рейтинг!\r\nВот что мы узнаем:\r\n\r\nКак использовать короля в окончании\r\nНасколько сильны проходные пешки, и как их создать\r\nКак менять фигуры, чтобы перейти в лучшее окончание\r\nВсе о пешечных прорывах\r\nКак жертвовать, чтобы провести пешку в ферзи!",
+                    "lessons": [
+                        {
+                            "name": "Проходные пешки",
+                            "link": "https://www.chess.com/lessons/osnovy-endshpilia/prokhodnye-peshki",
+                            "description": "Когда большинство фигур покидает доску, наступает пора вести пешки в ферзи. Для этого нужно создать проходную пешку, напротив которой нет пешек противника, способных взять или заблокировать ее. Когда у нас есть проходная пешка, ее легче вести вперед и превратить в ферзя. Еще лучше, если у нас две проходные пешки на соседних вертикалях. Королю противника трудно атаковать связанные проходные пешки.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-passed-pawns-i3d.mp4"
+                        },
+                        {
+                            "name": "Защита проходной",
+                            "link": "https://www.chess.com/lessons/osnovy-endshpilia/zashchita-prokhodnoi",
+                            "description": "Пешки не всегда могут сами постоять за себя - им нужно помогать королем. Короли не могут находиться на соседних полях, поэтому ваш король может помешать вражескому блокировать или взять вашу проходную пешку.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-escort-the-pawn-u2e.mp4"
+                        },
+                        {
+                            "name": "Жертва для превращения",
+                            "link": "https://www.chess.com/lessons/osnovy-endshpilia/zhertva-dlia-prevrashcheniia",
+                            "description": "Вражеская пешка мешает нашей пройти в ферзи? Жертвуем другую пешку или даже несколько, чтобы расчистить ей путь! В эндшпиле превращение в ферзя - самая важная цель, для ее достижения оправданы любые жертвы.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-sacrificing-to-promote-a9d.mp4"
+                        },
+                        {
+                            "name": "Прорыв 3х пешек против 3х",
+                            "link": "https://www.chess.com/lessons/osnovy-endshpilia/proryv-3-peshki-protiv-3",
+                            "description": "Ищем ходы пешками, даже жертвы, способные помочь созданию проходной. Часто жертва одной-двух пешек помогает превратить  пешку в ферзя. Помним, что новый ферзь намного сильнее одной-двух пешек.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-3-vs-3-pawn-breakthrough-l5t.mp4"
+                        },
+                        {
+                            "name": "Разменивайся и побеждай",
+                            "link": "https://www.chess.com/lessons/osnovy-endshpilia/razmenivaisia-pobezhdai",
+                            "description": "Для разменов всегда нужна определенная причина, например, материальное преимущество. В этом случае размены ведут к упрощению игры, и нам становится легче довести преимущество до победы.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-trade-down-to-a-win-j3d.mp4"
+                        },
+                        {
+                            "name": "Правило квадрата",
+                            "link": "https://www.chess.com/lessons/osnovy-endshpilia/pravilo-kvadrata",
+                            "description": "Избавляемся от хлопот и лишних расчетов, усвоив это простое правило эндшпиля. Мысленно проведем диагональную линию от поля, где расположена пешка, до горизонтали, где она должна превратиться в ферзя. Эта линия - диагональ квадрата. Если король противника попадает в этот квадрат, он догонит пешку. Если нет, пешка сможет превратиться в ферзя. Учитываем, что метод может дать некорректный прогноз, если на доске есть другие фигуры, или пешка может пойти на два поля вперед.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-rule-of-the-square-p3w.mp4"
+                        },
+                        {
+                            "name": "Как создать проходную",
+                            "link": "https://www.chess.com/lessons/osnovy-endshpilia/kak-sozdat-prokhodnuiu",
+                            "description": "Получаем преимущество, достаточное для победы, создав проходную пешку. Часто для создания проходной приходится совершать размены и предлагать жертвы.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-creating-a-passed-pawn-m1q.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Основы тактики",
+                    "short_description": "Удивим противника красивыми комбинациями",
+                    "link": "https://www.chess.com/lessons/osnovy-taktiki",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/6dbb6c54-a559-11e8-89dc-993b2303504b.a27d7ace.728x410o.fc7f751ef2a8.png",
+                    "description": "Побеждаем противников красивыми комбинациями!\r\nКак увеличить свои атакующие возможности? Вам доводилось анализировать свою партию и замечать упущенную возможность красивой комбинации? Это курс для вас! Узнав эти комбинационные темы, и мотивы атаки, мы увеличим свое мастерство и разгромим противников!\r\nВот что мы узнаем:\r\n\r\nКак жертвовать, чтобы побеждать\r\nВсе о вскрытых и двойных шахах\r\nВсе об отвлечении, завлечении и бешеных фигурах\r\nО спертом мате - одной из самых красивых комбинаций!\r\nЧто такое промежуточные ходы!",
+                    "lessons": [
+                        {
+                            "name": "Жертвуй и побеждай",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/zhertvui-i-pobezhdai",
+                            "description": "Не боимся жертвовать фигуры, если жертвы, в конечном счете, ведут к мату. Обращаем особое внимание на шахи, взятия и угрозы жертв, ведущих к мату, материальным завоеваниям или сильной атаке.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-sacrificing-to-win-k2s.mp4"
+                        },
+                        {
+                            "name": "Пойманная фигура",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/poimannaia-figura",
+                            "description": "Точные ходы пешками могут отнять у фигур противника поля для отступления. Даже ферзь может быть пойман, поскольку его невыгодно менять на фигуры меньшего достоинства.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-trapped-piece-d9s.mp4"
+                        },
+                        {
+                            "name": "Вскрытое нападение",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/vskrytoe-napadenie",
+                            "description": "При вскрытом нападении мы делаем ход фигурой и открываете линию для атаки фигурой, расположенной позади нее. Такой ход может оказаться очень неприятным, поскольку фигура, делающая ход, может создать одну угрозу, а вскрытая ею - другую. Противник не сможет защититься от обеих угроз одновременно.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-discovered-attack-l2x.mp4"
+                        },
+                        {
+                            "name": "Вскрытый шах",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/vskrytyi-shakh",
+                            "description": "Вскрытый шах - усиленная разновидность вскрытого нападения. Король под шахом, поэтому фигура, делающая ход, может занять любое поле, например, напасть на фигуру противника или взять ее.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-discovered-check-p8a.mp4"
+                        },
+                        {
+                            "name": "Двойной шах",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/dvoinoi-shakh",
+                            "description": "Королю придется не сладко, когда мы нападем на него двумя фигурами одновременно. Двойной шах - самый форсированный ход в шахматах. Это сочетание вскрытого шаха и шаха сходившей фигурой. Отступление короля - единственная защита от двойного шаха, поэтому он часто ведет к мату.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-double-check-s9w.mp4"
+                        },
+                        {
+                            "name": "Уничтожение защиты",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/unichtozhenie-zashchitnika",
+                            "description": "Часто одна и та же фигура помогает противнику защититься от разных угроз, но и ее можно атаковать или взять. После взятия поля и фигуры, которые оборонял защитник, останутся без его поддержки.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-removing-the-defender-g0d.mp4"
+                        },
+                        {
+                            "name": "Спертый мат",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/spertyi-mat",
+                            "description": "Мат конем королю, окруженному собственными фигурами, называется спертым матом. Известная разновидность спертого мата связана с двойным шахом и жертвой ферзя, форсирующей мат.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-smothered-mate-q8f.mp4"
+                        },
+                        {
+                            "name": "Отвлечение",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/otvlechenie",
+                            "description": "Иногда уничтожить защитника невозможно, но мы можем его отвлечь. Отвлечение - комбинация, вынуждающая защитника занять  другое поле. Часта она связана с жертвой, угрозой мата или больших материальных потерь.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-deflection-t5z.mp4"
+                        },
+                        {
+                            "name": "Завлечение",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/zavlechenie",
+                            "description": "Завлечение - комбинация, вынуждающая фигуру противника занять поле, где она не хочет находиться. Она полезна, чтобы уничтожить защитника, заманить фигуру под вилку, или короля в матовую сеть.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-decoy-k2w.mp4"
+                        },
+                        {
+                            "name": "Бешеная фигура и промежуточный ход",
+                            "link": "https://www.chess.com/lessons/osnovy-taktiki/beshenaia-figura-i-promezhutochnyi-khod",
+                            "description": "Обреченная на гибель фигура может многое успеть прежде, чем покинет доску. Фигуры, жертвующие собой, называют бешеными. Промежуточный ход - полезное и неожиданное продолжение в середине форсированного варианта, позволяющее получить материальный перевес.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-desperado-and-zwischenzug-j4e.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Форсированная игра",
+                    "short_description": "Управляем ходом игры, рассчитав варианты на несколько ходов вперед",
+                    "link": "https://www.chess.com/lessons/forsirovannaia-igra",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/c8bc63e2-a559-11e8-8af5-59a2febc5371.885de9c7.728x410o.65db68d7eaa2.png",
+                    "description": "Учимся считать варианты на много ходов вперед!\r\nКогда-нибудь попадали в сложную позицию, но не могли найти верный ход или идею? Иногда делаете безопасный ход, не желая считать варианты? Это курс для вас! Узнав о форсированных ходах, мы улучшим свои счетные способности и начнем побеждать сильными ходами!\r\nВот что мы узнаем:\r\n\r\nКак давать мат\r\nКак находить сильные форсированные ходы\r\nО комбинациях и ничейных спасениях\r\nКак жертвовать ферзя и побеждать!",
+                    "lessons": [
+                        {
+                            "name": "Форсированные ходы",
+                            "link": "https://www.chess.com/lessons/forsirovannaia-igra/forsirovannye-khody",
+                            "description": "Захватываем инициативу с помощью форсированных ходов: шахов, угроз и взятий. Противнику придется отвечать немедленно, чтобы избежать поражения или материальных потерь.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-powerful-moves-a0f.mp4"
+                        },
+                        {
+                            "name": "Комбинации",
+                            "link": "https://www.chess.com/lessons/forsirovannaia-igra/kombinatsii",
+                            "description": "Мы изучили много тактических приемов - начинаем составлять из них мощные комбинации. Комбинация - серия форсированных ходов, часто помогающая выиграть партию.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-combinations-d9m.mp4"
+                        },
+                        {
+                            "name": "Мат в 3 хода",
+                            "link": "https://www.chess.com/lessons/forsirovannaia-igra/mat-v-3-khoda",
+                            "description": "Заглянем в позицию глубже, чтобы найти форсированный мат в 3 хода. Это значит, что до конца партии осталось три наших хода и два хода противника. В поисках форсированного выигрыша мы будем часто находить эти комбинации.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-checkmate-in-3-moves-b7d.mp4"
+                        },
+                        {
+                            "name": "Жертвы ферзя",
+                            "link": "https://www.chess.com/lessons/forsirovannaia-igra/zhertvy-ferzia",
+                            "description": "Нет ничего лучше жертвы ферзя, позволяющей добиться победы. Ферзь ценен, но возможность поставить мат - еще ценнее. Иногда бывает оправданна жертва в обмен на достаточную компенсацию в виде хорошо координированных фигур.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-queen-sacrifice-j6t.mp4"
+                        },
+                        {
+                            "name": "Ничейные спасения",
+                            "link": "https://www.chess.com/lessons/forsirovannaia-igra/nicheinye-spaseniia",
+                            "description": "В трудной позиции стремимся жертвовать так, чтобы вынудить ничью.  Ищите, как сделать соотношение сил ничейным, вынудить пат или вечный шах.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-saving-draws-v5n.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Основы стратегии",
+                    "short_description": "Учимся видеть всю доску, чтобы найти лучший план",
+                    "link": "https://www.chess.com/lessons/osnovy-strategii",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/2388fd76-a55a-11e8-8e0e-61bfee8d6cf3.af7cabd8.728x410o.2accca2dce0e.png",
+                    "description": "Научимся видеть всю доску и находить оптимальный план!\r\nКогда нибудь задумывались, какую пешку вести вперед и почему? Разменивать ли фигуру или оставлять ее на доске? Этот курс для вас! Узнав о разных видах позиций, и как их разыгрывать, мы научимся видеть всю доску. Эти важные стратегические идеи - ключ к поиску верного плана и победам над противниками!\r\nВот что мы узнаем:\r\n\r\nЧем различаются открытые, полуоткрытые и закрытые позиции\r\nКак эффективно использовать пространство\r\nО пешечных структурах и пешечных цепочках\r\nКогда менять фигуры, и когда избегать разменов\r\nКак справляться с пешечным напряжением!",
+                    "lessons": [
+                        {
+                            "name": "Пешечные структуры",
+                            "link": "https://www.chess.com/lessons/osnovy-strategii/peshechnye-struktury",
+                            "description": "Связанные пешки могут защищать и поддерживать продвижение друг друга. Сдвоенные пешки мешают друг другу двигаться вперед. Пешки, оставшиеся без соседей, становятся изолированными, и часто их бывает легко атаковать.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-pawn-structures-k1a.mp4"
+                        },
+                        {
+                            "name": "Пешечные цепи",
+                            "link": "https://www.chess.com/lessons/osnovy-strategii/peshechnye-tsepi",
+                            "description": "Группа пешек, защищающих друг друга по диагонали, называется пешечной цепью. Единственная незащищенная пешка в цепи - ее база - остается позади других. Пешечные цепи могут ограничивать фигуры противника и помогать продвижению друг друга в эндшпиле.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-pawn-chains-i0q.mp4"
+                        },
+                        {
+                            "name": "Пространство",
+                            "link": "https://www.chess.com/lessons/osnovy-strategii/prostranstvo",
+                            "description": "Чем больше пространства мы захватили на доске, тем больше свободы маневра у наших фигур, и меньше - у нашего противника. Хороший способ захвата пространства - создание пешечного центра.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-space-f9l.mp4"
+                        },
+                        {
+                            "name": "Открытые, закрытые и полузакрытые позиции",
+                            "link": "https://www.chess.com/lessons/osnovy-strategii/otkrytye-zakrytye-i-poluzakrytye-pozitsii",
+                            "description": "Существуют три основных вида позиций. Если на доске мало пешек, позиция является открытой. В таких позициях зачастую очень сильны слоны, поскольку их ничто не ограничивает. Если на доске много пешек, блокирующих друг друга, позиция считается закрытой. В таких позициях слоны ограничены пешками, и среди легких фигур доминируют кони. Во многих позициях сочетаются свойства открытых и закрытых, и они называются полуоткрытыми.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-open-closed-semiopen-m2b.mp4"
+                        },
+                        {
+                            "name": "Продвинуть, взять или не обращать внимания",
+                            "link": "https://www.chess.com/lessons/osnovy-strategii/prodvinut-vziat-ili-ne-obrashchat-vnimaniia",
+                            "description": "Учимся справляться с пешечным напряжением и решать, нужно ли пойти вперед, взять или сделать другой ход. Если мы своим ходом не только защищаемся, но и создаем угрозу, он может оказаться сильнейшим. На некоторые угрозы можно не обращать внимания и заняться чем-нибудь более важным.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-push-capture-ignore-x1q.mp4"
+                        },
+                        {
+                            "name": "Когда разменивать фигуры",
+                            "link": "https://www.chess.com/lessons/osnovy-strategii/kogda-razmenivat-figury",
+                            "description": "Размены полезны, если они позволяют получить преимущество. Как оценить равный размен, не нарушающий материальное равновесие? Ошибочно начинать размены, не зная, как они скажутся на позиции. Размен принесет пользу, если он позволяет упростить позицию при  материальном преимуществе, избавиться от активно расположенной фигуры противника или захватить открытую вертикаль.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-INT-when-to-trade-pieces-c9w.mp4"
+                        },
+                        {
+                            "name": "Символы шахматной нотации",
+                            "link": "https://www.chess.com/lessons/osnovy-strategii/simvoly-shakhmatnoi-notatsii",
+                            "description": "Освоив язык шахмат, мы сможем выражать свои мысли свободно, используя символы нотации! Приводим несколько основных:\r\nШах = +\r\nМат = #\r\nВзятие = x\r\nКороткая рокировка = 0-0\r\nДлинная рокировка = 0-0-0\r\nСильный ход = !\r\nСлабый ход = ?\r\nИнтересный ход = !?\r\nСомнительный ход = ?!\r\nУжасный зевок = ??\r\nПотрясающий ход = !!\r\nБелые выиграли = 1-0\r\nЧерные выиграли = 0-1\r\nНичья = 1/2-1/2",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-advanced-notation-s2g.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Продвинутый (Путь к мастерству)",
+            "courses": [
+                {
+                    "name": "Дебют для продолжающих",
+                    "short_description": "Учимся разыгрывать самые популярные дебюты",
+                    "link": "https://www.chess.com/lessons/debiut-dlia-prodolzhaiushchikh",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/7e7de66a-a55a-11e8-944c-5700cee06bed.ca0f869e.728x410o.88795129f719.png",
+                    "description": "Изучаем дебюты, чтобы получить перевес в начале партии!\r\nУстали попадать в проигранные позиции в дебюте партии? Это курс для вас! Изучение дебютов бывает трудным для некоторых шахматистов, и попасться в дебютную ловушку - довольно неприятно. Узнаем о важных и известных дебютах и начнем получать выгодные позиции в начале партии, а также побеждать благодаря дебютным ловушкам!\r\nВот что мы узнаем:\r\n\r\nИзвестные открытые дебюты: итальянскую и испанскую партию\r\nКак играть против острых защит, например, сицилианской партии\r\nКак удивлять своих противников, применяющих необычные дебюты\r\nКак жертвовать фигуры ради атакующих возможностей в гамбитах\r\nКак добиваться быстрых побед благодаря дебютным ловушкам!",
+                    "lessons": [
+                        {
+                            "name": "Необычные дебюты",
+                            "link": "https://www.chess.com/lessons/debiut-dlia-prodolzhaiushchikh/neobychnye-debiuty",
+                            "description": "Не все партии начинаются ходами 1.e4 или 1.d4. Посмотрим, как отвечать на английское начало с ходом 1.c4, дебют Бёрда 1.f4, дебют Ларсена 1.b3, дебют Сокольского 1.b4 или сомнительный дебют Гроба 1.g4.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-offbeat-openings-j7s.mp4"
+                        },
+                        {
+                            "name": "Дебюты с ходом 1.e4: испанская и итальянская партия",
+                            "link": "https://www.chess.com/lessons/debiut-dlia-prodolzhaiushchikh/debiuty-e4-ispanskaia-italianskaia-partiia",
+                            "description": "Знакомимся с идеями самых популярных дебютов с ходом 1. e4. Ходами 1. e4 e5 2. Кf3 Кc6 Сc4 определяется итальянская партия, где черные выбирают между рискованным 3...Кf6 или более надежным  3...Сc5. \r\n3. Сb5 ведет к любимой многими испанской партии. Угроза Сxc6 и Кxe5 не ведет к выигрышу пешки, но черным нужно быть начеку. Они часто отвечают 3...a6, чтобы впоследствии избавиться от связки ходом b7-b5.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-popular-1e4-openings-ruy-lopez-italian-o2w.mp4"
+                        },
+                        {
+                            "name": "Дебюты с ходом 1.e4: сицилианская защита",
+                            "link": "https://www.chess.com/lessons/debiut-dlia-prodolzhaiushchikh/debiuty-e4-sitsilianskaia-zashchita",
+                            "description": "Сицилианская защита с ходом 1...c5 - частый ответ на 1.e4. Белые часто открывают игру ходами 2. Кf3 и 3.d4. Черные обычно берут на d4, и на доске возникает острая позиция. Белые рокируют на ферзевый фланг, а черные - на королевский со сложной игрой.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-popular-1e4-openings-the-sicilian-f9d.mp4"
+                        },
+                        {
+                            "name": "Дебюты с ходом 1.e4: французская защита и Каро-Канн",
+                            "link": "https://www.chess.com/lessons/debiut-dlia-prodolzhaiushchikh/debiuty-e4-frantsuzskaia-zashchita-karo-kann",
+                            "description": "Когда черные хотят разыграть крепкий дебют в ответ на 1.e4, они применяют французскую защиту или защиту Каро-Канн. В обоих дебютах они поддерживают продвижение d7-d5 соседней пешкой 1...e6 (французская защита) или 1...c6 (защита Каро-Канн). Белые обычно получают перевес в пространстве, но у черных возникает крепкая позиция.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-popular-1e4-openings-french-caro-kann-e9c.mp4"
+                        },
+                        {
+                            "name": "Дебюты с ходом 1. d4: ферзевый гамбит",
+                            "link": "https://www.chess.com/lessons/debiut-dlia-prodolzhaiushchikh/debiuty-d4-ferzevyi-gambit",
+                            "description": "Знакомимся с самым популярным дебютом с ходом 1. d4 - ферзевым гамбитом. На 1...d5 белые отвечают 2.c4, а черные могут принять гамбит ходом 2...dxc4 или защищать пешку d5 ходами c6 (славянская защита) или e6 (отказанный ферзевый гамбит).",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-popular-1d4-openings-the-queens-gambit-p2w.mp4"
+                        },
+                        {
+                            "name": "Дебюты с ходом 1. d4: 1...Nf6 и голландская защита",
+                            "link": "https://www.chess.com/lessons/debiut-dlia-prodolzhaiushchikh/debiuty-d4-nf6-gollandskaia-zashchita",
+                            "description": "Самый распространенный ответ черных на 1. d4, ход 1...Кf6, позволяет им развить фигуру и препятствовать продвижению e4. Белые часто продолжают 2. c4, и черные могут выбирать между борьбой за центр 2...e6 или планом контратаки 2...g6. Голландская защита с ходом 1...f5 считается рискованной. Черные берут под бой центр, но ослабляют прикрытие короля.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-popular-1d4-openings-1-nf6-the-dutch-defense-k8x.mp4"
+                        },
+                        {
+                            "name": "Гамбиты",
+                            "link": "https://www.chess.com/lessons/debiut-dlia-prodolzhaiushchikh/gambity-1",
+                            "description": "Иногда жертва пешки или двух может ускорить развитие и обострить игру. Это рискованный план, но так можно создать сильную атаку. К известным гамбитам относятся королевский (1.e4 e5 2.f4) и северный (1.e4 e5 2.d4).",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-gambits-n5t.mp4"
+                        },
+                        {
+                            "name": "Дебютные ловушки",
+                            "link": "https://www.chess.com/lessons/debiut-dlia-prodolzhaiushchikh/debiutnye-lovushki",
+                            "description": "Эти ловушки нужно знать, чтобы не проиграть партию за несколько ходов. Например, мы можем попасть в беду, повторяя ходы соперника после 1.e4 e5 2.Кf3 Кf6 3.Кxe5 Кxe4 Фe2. Если черные продолжают Фe7, белые забирают коня черных на e4. Если конь отступает на f6 или d6, белые выигрывают ферзя комбинацией. Ловушки есть во многих дебютах, поэтому нужно быть осторожным!",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-opening-traps-d0g.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Стратегия для продолжающих",
+                    "short_description": "Учимся находить верные планы и идеи",
+                    "link": "https://www.chess.com/lessons/strategiia-dlia-prodolzhaiushchikh",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/d9721794-a55a-11e8-89b7-11e1ca128ed2.ff336aaa.728x410o.db7c09f4ebf7.png",
+                    "description": "Узнаем, как найти план в любой позиции!\r\nВы получали выигрышную позицию, где не могли найти верный ход или план? У вас не получалось завершить атаку на противника? Это курс для вас! Узнаем, как выиграть \"выигранную\" позицию и создать план - это главные умения сильного мастера. Когда вы узнаете эти важные идеи, ваше понимание шахмат вырастет, и вы увидите, как ваш рейтинг будет расти и расти!\r\nВот что вы узнаете:\r\n\r\nКак выбрать верный ход в трудной позиции\r\nПозиционные идеи, развивающие ваше понимание шахмат\r\nРазницу между хорошими и плохими фигурами\r\nКак побеждать в выигранной партии\r\nКак сосредоточиться на том, что нужно для победы!",
+                    "lessons": [
+                        {
+                            "name": "Как выбрать ход",
+                            "link": "https://www.chess.com/lessons/strategiia-dlia-prodolzhaiushchikh/kak-vybrat-khod",
+                            "description": "Возможностей так много, что трудно понять, что же надо делать. В такой ситуации полезно изучить форсированные возможности за обе стороны - так мы сможем найти важные идеи атаки за себя и за своего противника. Также нужно обратить внимание на сильно и слабо расположенные фигуры обоих противников, чтобы понять, где атаковать или защищаться.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-how-to-choose-a-move-t8y.mp4"
+                        },
+                        {
+                            "name": "Как составить план",
+                            "link": "https://www.chess.com/lessons/strategiia-dlia-prodolzhaiushchikh/kak-sostavit-plan",
+                            "description": "Когда мы не знаем, что делать, нужно определить, какая из наших фигур расположена наименее активно, и улучшить ее положение. Когда мы займем всеми своими фигурами выгодные поля, найдется и комбинация, позволяющая получить материальный перевес.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-planning-f0y.mp4"
+                        },
+                        {
+                            "name": "Позиционная игра",
+                            "link": "https://www.chess.com/lessons/strategiia-dlia-prodolzhaiushchikh/pozitsionnaia-igra",
+                            "description": "Тактика важна, но обычно комбинации возникают уже в лучшей позиции. Постараемся расположить свои фигуры более активно, занять центр и обезопасить короля. Когда мы этого добьемся, нам непременно выпадут хорошие комбинационные возможности.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-positional-play-g9w.mp4"
+                        },
+                        {
+                            "name": "Хорошие и плохие фигуры",
+                            "link": "https://www.chess.com/lessons/strategiia-dlia-prodolzhaiushchikh/khoroshie-plokhie-figury",
+                            "description": "Хорошие фигуры расположены активно, и у них есть цели для атаки. С плохими фигурами все наоборот. Их подвижность ограничена, или они не атакуют ничего полезного. Нам нужно активизировать свои фигуры, разменивая те, которые мы не сможем расположить активно. Полезно также ограничить активность фигур противника.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-good-and-bad-pieces-j9r.mp4"
+                        },
+                        {
+                            "name": "Защита плохой позиции",
+                            "link": "https://www.chess.com/lessons/strategiia-dlia-prodolzhaiushchikh/zashchita-plokhoi-pozitsii",
+                            "description": "Плохая позиция не значит проигранная. Всего лишь нужно проявить упорство и избегать создания новых слабостей. Одну слабость вполне можно защитить. Также постараемся найти активную контригру. Заставим противника парировать новые угрозы, отвлекая его от атаки.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-playing-a-bad-position-e8r.mp4"
+                        },
+                        {
+                            "name": "На грани поражения",
+                            "link": "https://www.chess.com/lessons/strategiia-dlia-prodolzhaiushchikh/na-grani-porazheniia",
+                            "description": "Зачем сдаваться в проигранной позиции?!  Не опускаем руки и ищем шансы. Постараемся избегать разменов, чтобы позиция оставалась сложной. Если при сильнейшей игре мы проигрываем, ставим ловушки и рискуем - терять нечего!",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-when-youre-losing-h3s.mp4"
+                        },
+                        {
+                            "name": "Как выиграть выигранную позицию",
+                            "link": "https://www.chess.com/lessons/strategiia-dlia-prodolzhaiushchikh/kak-vyigrat-vyigrannuiu-pozitsiiu",
+                            "description": "Когда позиция выиграна, важно не упускать из виду возможности  противника. Следим за контригрой и ищем возможности упростить позицию, сведя ее к легко выигранной.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-winning-the-won-game-p4s.mp4"
+                        },
+                        {
+                            "name": "Учимся справляться с эмоциями",
+                            "link": "https://www.chess.com/lessons/strategiia-dlia-prodolzhaiushchikh/uchimsia-spravliatsia-s-emotsiiami",
+                            "description": "Важно думать о том, что происходит на доске, не отвлекаясь на мысли о своем турнирном положении или рейтинге противника.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-overcoming-your-emotions-q2v.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Активизируем фигуры",
+                    "short_description": "Извлечем максимум из каждой фигуры, найдя для нее подходящее поле",
+                    "link": "https://www.chess.com/lessons/aktiviziruem-figury",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/34690888-a55b-11e8-9d19-b785b87d4957.0dd78ba5.728x410o.2d9e5d31072e.png",
+                    "description": "Извлечем максимум из своих фигур!\r\nВы когда-либо старались раскрыть потенциал своих двух слонов или оптимально расположить свои фигуры? Этот курс для вас! Умение найти верное расположение фигур трудно освоить, но только не в этом курсе уроков! Узнав его идеи, мы начнем гармоничнее располагать свои фигуры и побеждать своих противников!\r\nВот что мы узнаем:\r\n\r\nКак использовать пару слонов в открытых позициях\r\nКак найти нужные форпосты для своих коней\r\nКак использовать мельницу и батарею тяжелых фигур\r\nКак получить преимущество благодаря лучшей пешечной структуре\r\nЛадьи на предпоследней горизонтали!",
+                    "lessons": [
+                        {
+                            "name": "Прорыв",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/proryv",
+                            "description": "Ваш противник хорошо защищается - постараемся сломить его сопротивление.\r\nЧасто путь к победе в партии идет через превращение пешки. Новый ферзь настолько ценен, что этой целью оправдывается даже жертва нескольких фигур.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-breakthrough-t2i.mp4"
+                        },
+                        {
+                            "name": "Пешки в миттельшпиле",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/peshki-v-mittelshpile",
+                            "description": "В миттельшпиле расположение пешек подсказывает направление атаки - действуйте там, куда показывает ваша пешечная цепочка. Мы можем провести либо атаку пешечного большинства, пытаясь создать проходную, либо атаку пешечного меньшинства, чтобы произошли размены, и соперник остался со слабой изолированной пешкой.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-pawns-in-the-middlegame-b0b.mp4"
+                        },
+                        {
+                            "name": "Изолированные и висячие пешки",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/izolirovannye-visiachie-peshki",
+                            "description": "Изучение пешечных структур помогает совершенствовать атакующие и защитные умения! Изолированные пешки легко становятся целями атаки, поскольку их не могут защитить другие пешки. Часто в центре остается только изолированная пешка, а значит, ее хозяин получает хорошие шансы на атаку в миттельшпиле. Висячими называют расположенные рядом, например, на вертикалях \"d\" и \"c\" пешки, если соседние пешки отсутствуют. Такие пешки дают хорошие шансы на атаку, но легко становятся мишенью для фигур.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-isolated-and-hanging-pawns-g8n.mp4"
+                        },
+                        {
+                            "name": "Как останавливать пешки",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/kak-ostanavlivat-peshki",
+                            "description": "Проходные пешки бывают смертельно опасны, поэтому их необходимо блокировать. Кони - хорошие блокеры, поскольку могут перепрыгивать через пешку, оставаясь активными. Если мы позволим проходным зайти слишком далеко, нам придется жертвовать фигуры, чтобы помешать их превращению.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-blockading-pawns-i9u.mp4"
+                        },
+                        {
+                            "name": "Форпосты",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/forposty",
+                            "description": "Форпост - поле, где на фигуру не может напасть пешка противника. Выгодно расположить здесь фигуру, если ее защищает своя пешка, и она держит под боем ключевые поля в позиции противника. Особенно сильны занимающие форпосты кони.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-outposts-g3f.mp4"
+                        },
+                        {
+                            "name": "Как использовать пару слонов",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/kak-ispolzovat-paru-slonov",
+                            "description": "Слоны сильны в открытых позициях, в особенности, когда они действуют сообща. В этом случае они держат под боем и белые, и черные поля, доминируя и в окончаниях и в матовых атаках. Если у противника есть пара слонов, ищем возможность разменять одного из них.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-using-the-bishop-pair-n4r.mp4"
+                        },
+                        {
+                            "name": "Слоны против коней",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/slony-protiv-konei",
+                            "description": "Дуэль слона и коня - самое принципиальное противостояние в шахматах. Слоны быстры и сильны в открытых позициях, где их невозможно блокировать. Кони могут атаковать поля любого цвета и отлично себя чувствуют в закрытых позициях.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-bishop-vs-knight-k2w.mp4"
+                        },
+                        {
+                            "name": "Батарея",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/batareia",
+                            "description": "Раскроем весь потенциал своих дальнобойных фигур, сосредоточив их на одной линии. Батарея - объединение нескольких дальнобойных фигур на одной вертикали, горизонтали или диагонали. Батареи часто помогают получить материальный перевес или объявить мат.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-batteries-g8r.mp4"
+                        },
+                        {
+                            "name": "Ладьи на предпоследней горизонтали",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/ladi-na-predposlednei-gorizontali",
+                            "description": "Одна и самых сильных батарей в шахматах состоит из двух ладей на предпоследней горизонтали. Они собирают все пешки, не успевшие шагнуть вперед, и даже могут дать мат.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-pigs-on-the-seventh-f1g.mp4"
+                        },
+                        {
+                            "name": "Мельница",
+                            "link": "https://www.chess.com/lessons/aktiviziruem-figury/melnitsa",
+                            "description": "Эта редкая, но мощная комбинация, возникающая при возможности неоднократного объявления вскрытого шаха. При этом фигуры двигаются как на лопасти вентилятора или крылья мельницы. Вскрытые шахи позволяют взять несколько фигур, получая большое материальное преимущество.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-windmill-s0d.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Эндшпиль для продолжающих",
+                    "short_description": "Совершенствуем игру в эндшпиле, освоив победную технику",
+                    "link": "https://www.chess.com/lessons/endshpil-dlia-prodolzhaiushchikh",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/8f57f6e6-a55b-11e8-ba3b-897cd775c232.b31ec852.728x410o.ec94cb06d86d.png",
+                    "description": "Начинаем побеждать в окончаниях!\r\nНе только вы не могли найти верный план в окончании и проигрывали своему противнику. Почти каждый шахматист испытывал трудности в окончаниях, пока не осваивал важные законы эндшпиля! Разобравшись в них, мы начнем переигрывать противников в окончаниях!\r\nВот что мы узнаем:\r\n\r\nКак защищать позиции с материальным перевесом у нашего противника\r\nЧто такое оппозиция, и как добиться победы в пешечном эндшпиле\r\nКакие трюки помогут выиграть или защитить ладейное окончание\r\nКак действовать в окончаниях с разноцветными слонами\r\nЧто такое цугцванг!",
+                    "lessons": [
+                        {
+                            "name": "Принципы эндшпиля",
+                            "link": "https://www.chess.com/lessons/endshpil-dlia-prodolzhaiushchikh/printsipy-endshpilia",
+                            "description": "Освоим базовые принципы эндшпиля и получим преимущество после размена большинства фигур. В эндшпиле важно сохранять хладнокровие, не торопиться и не позволять противнику создать контригру. Наша цель - победа, а дополнительных очков за скорость в шахматах не дают.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-endgame-principles-j0q.mp4"
+                        },
+                        {
+                            "name": "Основы ладейных окончаний",
+                            "link": "https://www.chess.com/lessons/endshpil-dlia-prodolzhaiushchikh/osnovy-ladeinykh-okonchanii",
+                            "description": "Ладейное окончание - чаще всего встречающийся на доске эндшпиль. Важно, чтобы ваша ладья оставалась как можно более активной и взаимодействовала с королем. Ладьи не слишком успешно останавливают проходные пешки. Для победы короля и ладьи над королем и пешкой королю нужно успеть на помощь ладье.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-common-rook-endgames-r0c.mp4"
+                        },
+                        {
+                            "name": "Оппозиция",
+                            "link": "https://www.chess.com/lessons/endshpil-dlia-prodolzhaiushchikh/oppozitsiia",
+                            "description": "Оппозиция - ключевой прием в эндшпиле. Два короля занимают оппозицию, когда между ними остается одно поле. Королю стороны, которой принадлежит очередь хода, приходится отступить. Часто от оппозиции зависит, выиграно или проиграно пешечное окончание. Выигрыш с королем и пешкой против одинокого короля - важнейшая техника атакующей стороны. Если король оказывается впереди своей пешки на шестой, седьмой или восьмой горизонтали, позиция выиграна.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-opposition-c9v.mp4"
+                        },
+                        {
+                            "name": "Цугцванг и выжидательные ходы",
+                            "link": "https://www.chess.com/lessons/endshpil-dlia-prodolzhaiushchikh/tsugtsvang-vyzhidatelnye-khody",
+                            "description": "В шахматах пропуск хода невозможен, поэтому иногда возникают позиции, где неизбежен ход, ухудшающий собственное положение. Такая ситуация называется цугцванг. Умение поставить противника в цугцванг - важный прием, позволяющий добиться победы в окончаниях, но цугцванг возможен и в миттельшпиле.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-zugzwang-t4h.mp4"
+                        },
+                        {
+                            "name": "Разноцветные слоны в эндшпиле",
+                            "link": "https://www.chess.com/lessons/endshpil-dlia-prodolzhaiushchikh/raznotsvetnye-slony-v-endshpile",
+                            "description": "В миттельшпиле разноцветные слоны значат, что у каждого из противников в атаке есть лишняя фигура. В окончании разноцветные слоны, наоборот, значительно увеличивают вероятность ничьей. Слон держит под боем всю диагональ, и слон другого цвета не может ему помешать.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-opposite-colored-bishops-b5t.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Атака на короля",
+                    "short_description": "Нападаем на короля и сокрушаем его защиту.",
+                    "link": "https://www.chess.com/lessons/ataka-na-korolia",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/ea586a9e-a55b-11e8-81dc-c387e6928247.0c7b7b12.728x410o.afc9cad3f635.png",
+                    "description": "Завершаем свои партии яростными атаками на вражеского короля!\r\nКаждый хочет обрушить каскад комбинационных ударов но короля своего противника, но хватит ли для этого мастерства? Если мы хотим расширить свой атакующий арсенал, нам нужно пройти это курс! Изучив сложные приемы атаки, мы сможем и лучше защищаться. Используем все это в партии, чтобы сокрушить своих противников!\r\nВот что мы узнаем из курса:\r\n\r\nКак поймать вражеского короля в матовую сеть\r\nКак вызвать ослабление прикрытия короля\r\nКак начать пешечный штурм\r\nКак атаковать рокированного короля\r\nКак ставить мат",
+                    "lessons": [
+                        {
+                            "name": "Король в опасности",
+                            "link": "https://www.chess.com/lessons/ataka-na-korolia/korol-v-opasnosti",
+                            "description": "Когда один из противников атакует короля, важно изучить все форсированные продолжения и ходы, мешающие ему покинуть опасную зону. В защите пытайтесь определить угрозы противника и отразить их, не создавая новых ненужных ослаблений. Часто возможность успешно защититься заключается в контратаке или размене активных фигур противника.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-king-in-danger-h7x.mp4"
+                        },
+                        {
+                            "name": "Атака на рокированного короля",
+                            "link": "https://www.chess.com/lessons/ataka-na-korolia/ataka-na-rokirovannogo-korolia",
+                            "description": "После рокировки король не всегда оказывается в безопасности. Часто можно пожертвовать фигуру и выманить короля из укрытия. Пример такой атаки - \"данайский дар\". Так иногда называют жертву Сxh7+ с подключением к атаке коня и ферзя и последующим матом или получением материального преимущества.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-attacking-the-castled-king-j2s.mp4"
+                        },
+                        {
+                            "name": "Сложные матовые конструкции",
+                            "link": "https://www.chess.com/lessons/ataka-na-korolia/slozhnye-matovye-konstruktsii",
+                            "description": "Выходим на новый уровень понимания матовых комбинаций, чтобы ошеломить противника неожиданной жертвой. Узнаем об арабском мате, мате Бодена, эполетном мате, мате \"ласточкин хвост\", мате Анастасии и десятках других. Каждая запомненная матовая схема даст новые идеи для атаки.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-advanced-checkmate-patterns-g0f.mp4"
+                        },
+                        {
+                            "name": "Матовая сеть",
+                            "link": "https://www.chess.com/lessons/ataka-na-korolia/matovaia-set",
+                            "description": "Когда фигуры создают матовую сеть, они взаимодействуют, мешая  вражескому королю спастись от матовой атаки. Не все ходы при создании матовой сети выполняются с шахом. Иногда, чтобы закрыть королю путь отступления, нужен тихий ход.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-mating-net-e0d.mp4"
+                        },
+                        {
+                            "name": "Как создавать слабости",
+                            "link": "https://www.chess.com/lessons/ataka-na-korolia/kak-sozdavat-slabosti",
+                            "description": "Атаковать хорошо защищенного короля нелегко. Нужно ослабить его позицию, вынудив продвижение пешек и разменяв важные для защиты фигуры.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-provoking-weaknesses-h6s.mp4"
+                        },
+                        {
+                            "name": "Пешечный штурм",
+                            "link": "https://www.chess.com/lessons/ataka-na-korolia/peshechnyi-shturm",
+                            "description": "При атаке на позицию рокировки нужно вынуждать ослабления. Хороший способ этого добиться - наступать пешками, чтобы вскрыть линии. Такая стратегия будет эффективнее всего при разносторонних рокировках - когда наш король и король противника находятся на разных флангах.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-pawn-storms-c0i.mp4"
+                        },
+                        {
+                            "name": "Как защищать короля",
+                            "link": "https://www.chess.com/lessons/ataka-na-korolia/kak-zashchishchat-korolia",
+                            "description": "Умение защищать короля в трудной позиции принесет нам немало очков. Даже в плохой позиции важно не опускать руки и искать удачные возможности. Обращаем внимание на самые активные ходы и продолжения на каждом ходу.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-defending-the-king-s0k.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Тактика для продолжающих",
+                    "short_description": "Выигрываем больше партий красивыми комбинациями",
+                    "link": "https://www.chess.com/lessons/taktika-dlia-prodolzhaiushchikh",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/454b9994-a55c-11e8-8645-e18938c4b53b.d709ce9b.728x410o.528170e7e3a8.png",
+                    "description": "Уничтожим противников потрясающими жертвами!\r\nПриходилось разбирать партии Михаила Таля или Пола Морфи, восхищаясь их комбинационной игрой? А находить упущенные возможности в анализе своих партий? Этот курс для вас! Узнав больше о тактических идеях мы сметем противника с доски невероятными комбинациями!\r\nВот что мы узнаем:\r\n\r\nКак жертвой качества поставить противника на колени\r\nКак воспользоваться перегрузкой важной для защиты фигуры\r\nКак нанести заключительный удар освобождающей жертвой\r\nКак разрушить взаимодействие фигур противника перекрытием\r\nКак использовать слабое превращение для мата",
+                    "lessons": [
+                        {
+                            "name": "Жертва качества",
+                            "link": "https://www.chess.com/lessons/taktika-dlia-prodolzhaiushchikh/zhertva-kachestva",
+                            "description": "Иногда позиционные выгоды важнее материального равновесия. Отдаем сейчас, чтобы заработать потом. Жертва качества встречается очень часто. Иногда мы отдаем ладью за легкую фигуру для атаки, чтобы ослабить прикрытие вражеского короля, иногда - в защите, чтобы избавиться от выгодно расположенной фигуры противника. Две пешки или другие позиционные плюсы обычно становятся хорошей компенсацией за качество.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-exchange-sacrifices-t7r.mp4"
+                        },
+                        {
+                            "name": "Освобождающая жертва",
+                            "link": "https://www.chess.com/lessons/taktika-dlia-prodolzhaiushchikh/osvobozhdaiushchaia-zhertva",
+                            "description": "При освобождающей жертве мы расстаемся со своей фигурой просто, чтобы она не мешала другим. Часто такие жертвы позволяют выиграть время и дают вам неотразимую атаку.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-clearance-sacrifice-m2f.mp4"
+                        },
+                        {
+                            "name": "Перегрузка",
+                            "link": "https://www.chess.com/lessons/taktika-dlia-prodolzhaiushchikh/peregruzka",
+                            "description": "Шахматным фигурам трудно защищать несколько полей одновременно. Такие фигуры называются перегруженными. Часто возникает возможность отвлечь защитника одним взятием, чтобы осуществить другое или даже дать мат.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-overloading-f9d.mp4"
+                        },
+                        {
+                            "name": "Перекрытие",
+                            "link": "https://www.chess.com/lessons/taktika-dlia-prodolzhaiushchikh/perekrytie",
+                            "description": "Нарушим координацию фигур противника, пожертвовав одну из своих. При жертве на перекрытие мы жертвуем фигуру, чтобы перекрыть линию защитнику ключевого поля или фигуры.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-interference-v8x.mp4"
+                        },
+                        {
+                            "name": "Слабое превращение",
+                            "link": "https://www.chess.com/lessons/taktika-dlia-prodolzhaiushchikh/slaboe-prevrashchenie",
+                            "description": "Прежде, чем торопиться превращать пешку в ферзя, проверим, не выгоднее ли превращение в более слабую фигуру. Иногда превращение в ладью или слона помогает вам избежать пата. Еще чаще шахматисты превращают пешку в коня, чтобы защититься от вилки.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-underpromotion-d9a.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Секреты эндшпиля",
+                    "short_description": "Эти позиции нужно знать, чтобы не терять очки в эндшпиле",
+                    "link": "https://www.chess.com/lessons/sekrety-endshpilia",
+                    "image": "https://images.chesscomfiles.com/uploads/v1/lesson_course/781ac6e0-a55e-11e8-b3ab-9974507c5e04.7582d9c7.728x410o.6a3c8b44ff24.png",
+                    "description": "Откроем для себя все секреты эндшпиля, чтобы побеждать противников в окончаниях!\r\nВы устали от ничьих в ладейных окончаниях с лишними пешками? Этот курс для вас! Выиграть выигранную позицию может быть исключительно трудно, но освоив эти концепции и техники, мы сможем повысить свои шансы на победу в эндшпиле и даже научиться защищать трудные позиции, спасаясь от поражения!\r\nЧто мы узнаем из урока:\r\n\r\nКак использовать важные правила дальней оппозиции и построения треугольника в пешечных окончаниях\r\nКак ставить мат двумя слонами\r\nКак остановить опасную проходную ферзем, и заработать целое очко\r\nКак набирать очки в важнейших позициях Лусены и Филидора\r\nИ другие секреты!\r\n\r\n\r\nФилидор говорит нам: \"Пора освоить мой метод защиты ладейных окончаний!\" Фотография: Wikimedia.",
+                    "lessons": [
+                        {
+                            "name": "Дальняя оппозиция",
+                            "link": "https://www.chess.com/lessons/sekrety-endshpilia/dalniaia-oppozitsiia",
+                            "description": "При ближней оппозиции короли расположены друг напротив  друга, и их разделяет всего одно поле. Преимущество у того из противников, кому не нужно делать ход, поскольку ему не придется отступить. Существует и дальняя оппозиция, когда королей разделяют три поля, и даже пять полей. К дальней оппозиции применимы те же принципы, что и к ближней.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-distant-opposition-w3n.mp4"
+                        },
+                        {
+                            "name": "Метод треугольника",
+                            "link": "https://www.chess.com/lessons/sekrety-endshpilia/metod-treugolnika",
+                            "description": "В некоторых пешечных окончаниях мы можем занять оппозицию и поставить противника в цугцванг, потеряв темп. Треугольник - маневр короля, который тратит три хода, чтобы вернуться на то же поле, а его противник делает это всего за два хода. На доске возникает та же позиция, но очередь хода теперь принадлежит противнику, который может попасть в цугцванг.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-triangulation-u7e.mp4"
+                        },
+                        {
+                            "name": "Позиция Лусены",
+                            "link": "https://www.chess.com/lessons/sekrety-endshpilia/pozitsiia-luseny",
+                            "description": "В позиции Лусены король, ладья и пешка одного из противников борются с королем и ладьей другого, и пешка находится в одном поле от превращения. Техника выигрыша заключается в том, чтобы отогнать короля противника на три вертикали от пешки и расположить свою ладью на четвертой горизонтали, \"построив мост\" и закрыв короля от шахов прежде, чем превратить пешку в ферзя.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-lucena-position-v8i.mp4"
+                        },
+                        {
+                            "name": "Позиция Филидора",
+                            "link": "https://www.chess.com/lessons/sekrety-endshpilia/pozitsiia-filidora",
+                            "description": "Самая важная ничейная позиция в ладейных окончаниях известна как позиция Филидора. Король и ладья могут защититься против короля, ладьи и пешки, если король останется на поле превращения, а ладья  - на третьей от края доски горизонтали. Когда пешка продвинется до третьей горизонтали, ладья уйдет в тыл атакующего противника и начнет давать шахи его королю. Тот не сможет укрыться от шахов и усилить свою позицию.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-philidor-position-f8s.mp4"
+                        },
+                        {
+                            "name": "Фигуры против пешек",
+                            "link": "https://www.chess.com/lessons/sekrety-endshpilia/figury-protiv-peshek",
+                            "description": "Фигуры обычно намного ценнее пешек, но пешки, близкие к полю превращения или способные защитить друг друга, могут успешно бороться против фигур. Чтобы остановить пешки, можно отдать за них фигуру или попытаться их заблокировать и перехватить инициативу.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-pieces-vs-pawns-t0h.mp4"
+                        },
+                        {
+                            "name": "Ферзь против пешки",
+                            "link": "https://www.chess.com/lessons/sekrety-endshpilia/ferz-protiv-peshki",
+                            "description": "Наша пешка превратилась в ферзя, но вражеская пешка тоже скоро превратится. Как ее остановить? Пешка на седьмой горизонтали иногда приносит ничью даже против ферзя. Коневую или центральную пешку ферзь может остановить с любого поля. Достаточно давать шахи, пока король противника не займет поле превращения. Тогда у сильнейшей стороны появится возможность подвести ближе своего короля. Защищающаяся сторона с ладейной или слоновой пешкой на седьмой горизонтали может добиться ничьей, используя патовую ловушку.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-queen-vs-pawn-e4r.mp4"
+                        },
+                        {
+                            "name": "Мат двумя слонами",
+                            "link": "https://www.chess.com/lessons/sekrety-endshpilia/mat-dvumia-slonami",
+                            "description": "Такое происходит нечасто, но все равно нужно знать, как поставить мат двумя слонами и королем. Два слона, стоящие бок-о-бок, образуют стену, которую не сможет пересечь король противника. Используя оппозицию и слонов, можно загнать короля противника в угол доски, где он получит мат.",
+                            "video_url": "https://media.chesscomfiles.com/videos/square/RUS-ADV-two-bishop-checkmate-k0g.mp4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
