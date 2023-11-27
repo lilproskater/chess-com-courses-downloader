@@ -1,5 +1,6 @@
 from requests import get
 from re import sub as re_sub
+from config import COOKIE_HEADER
 
 
 def get_request(url, host='www.chess.com'):
@@ -17,6 +18,8 @@ def get_request(url, host='www.chess.com'):
         'Upgrade-Insecure-Requests': '1',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0', 
     }
+    if COOKIE_HEADER:
+        headers['Cookie'] = COOKIE_HEADER
     return get(url, headers=headers)
 
 
